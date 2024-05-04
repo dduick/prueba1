@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    padding: 0px 40px;
+}
+
+.monedas {
+    display: block;
+}
+.moneda {
+    background: grey;
+    color:white;
+    border-radius: 500px;
+    background-position: center;
+    background-color:black
+}
+
+#btnUSD {
+    background-color: black;
+    color:white
+}
+#btnGBP {
+    background-color: black;
+    color:white
+}
+#btnEUR {
+    background-color: black;
+    color:white
+}
+#btnMostrarTodos {
+    background-color: black;
+    color:white
+}
